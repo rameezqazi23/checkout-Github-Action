@@ -1,1 +1,1 @@
-# checkout-Github-Action
+# checkout github CI/CD manual workflow 
