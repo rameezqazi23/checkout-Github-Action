@@ -1,1 +1,1 @@
-# checkout github CI/CD manual workflow 
+# checkout github CI/CD manual workflow Automation
